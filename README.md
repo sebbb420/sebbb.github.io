@@ -1,4 +1,4 @@
-# Welcome to sebbb420's GitHub Page
+# Welcome to sebbb's GitHub Page
 ---
 My PlayStationNetwork (PSN) Account
 ![image](https://user-images.githubusercontent.com/118144889/202071382-152f46b8-3820-4ebb-ae75-513a22f1fd05.png)
@@ -19,6 +19,4 @@ My PlayStationNetwork (PSN) Account
 - 
 This game has multiple gamemodes for you to play such as Warzone 2.0 and Multiplayer
 - Warzone 2.0
-<p-align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_cA0oO1WMxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+
